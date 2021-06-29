@@ -1,0 +1,4 @@
+no movement
+no dash
+dash cooldown
+dashing
