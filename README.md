@@ -13,5 +13,3 @@ This project was expanded upon a bit in two other repos (due to differences in U
 [`Danmaku-Prototype-2`](https://github.com/morgannewellsun/Danmaku-Prototype-2) implements more robust systems for joint-based animations, as well as for manipulating the camera and managing overall game systems.
 
 [`Danmaku-Prototype-3`](https://github.com/morgannewellsun/Danmaku-Prototype-3) implements a framework for managing enemy attacks and behavior.
-
-Unfortunately, I don't have any demonstrations for the other two repos.
