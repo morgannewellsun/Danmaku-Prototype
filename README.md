@@ -1,6 +1,6 @@
 # Danmaku-Prototype
 
-This is a working prototype for a top-down [danmaku game](https://en.wikipedia.org/wiki/Danmaku).
+This is a working prototype for a top-down [danmaku game](https://en.wikipedia.org/wiki/Shoot_%27em_up#Bullet_hell).
 
 It implements focused/non-focused speed, as well as a dash.
 
